@@ -15,7 +15,7 @@ Please use **one** of the two installation options, either native **or** docker 
 * Follow these instructions to install ROS
   * [ROS Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu) if you have Ubuntu 16.04.
   * [ROS Indigo](http://wiki.ros.org/indigo/Installation/Ubuntu) if you have Ubuntu 14.04.
-* Download the [Udacity Simulator](https://github.com/udacity/CarND-Capstone/releases).
+* Download the [Udacity Simulator](https://github.com/udacity/CarND-Capstone/releases)
 
 ### Docker Installation
 [Install Docker](https://docs.docker.com/engine/installation/)
